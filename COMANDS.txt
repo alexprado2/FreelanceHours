@@ -1,0 +1,4 @@
+php artisan migrate:fresh -- Popular o banco de dados+
+php artisan db:seed -- sedar o banco
+npm rum dev  -- inicia o react
+php artisan serve -- inicia o projeto
